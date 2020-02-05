@@ -1,0 +1,19 @@
+---
+title: "partner"
+author: "Connor Carpenter"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner Name: Aaron Jencks
+Partner GitHub Username: iggy12345
+
+Recent commit (adeb25b4124aec9264b2060f143b96c74a542c4a) included an image
+
+I was able to knit the Rmd file into html.
+
+difficulties include remembering git code
