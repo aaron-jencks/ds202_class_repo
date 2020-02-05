@@ -1,0 +1,11 @@
+---
+title: Lab 2
+auhtor: Aaron Jencks
+date: 2/5/2020
+output: html_document
+---
+
+```{r}
+choco <- read.csv("https://xdaiisu.github.io/ds202materials/hwlabs/choco.csv")
+head(choco)
+```
